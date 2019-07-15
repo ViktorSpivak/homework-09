@@ -2,12 +2,14 @@
 $grid-breakpoints: (
   xs: 0,
   sm: 320px,
-  md: 940px,
-  lg: 1024px
+  md: 500px,
+  lg: 960px
 );
 
 $container-max-widths: (
   sm: 748px,
-  md: 942px,
-  lg: 942px
+  md: 748px,
+  lg: 940px
 );
+
+$spacer: 45px;
